@@ -72,19 +72,20 @@ for (var i = 0; i < elements.length; i++) {
 
 // Arrow  function
 function handal (){
-	console.log(demo for the change)
+	console.log("demo for the change")
 };
 handal();
 
 
-let age = 20;
+let age = 50;
 if (age === 20) {
-    document.write("this is small number");
+    document.write("45");
 } else {
-    document.write("THis is the large number");
+    document.write("50");
 }
 
 
+// document.write("This is js")
 
 
 // I am addingthis for git hub testing
